@@ -5,5 +5,5 @@ Este repositório contém meus estudos sobre CyberSecurity. Clique em um dos tó
 ## 🔗 Cursos e Conteúdos
 
 - [Solyd Offensive - O que é Pentest](Cursos/SolydOffensive/WhatPentest.md)
-- [Solyd Offensive - O que é Pentest](Cursos/OutroCurso/KaliLinux.md)
+- [Solyd Offensive - Kali Linux](Cursos/OutroCurso/KaliLinux.md)
 
