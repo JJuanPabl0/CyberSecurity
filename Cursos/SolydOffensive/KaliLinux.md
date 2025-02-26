@@ -38,7 +38,7 @@ No site, siga os passos:
     ![alt text](../../Fotos/imagem.png2.jpeg)
 
     
-    > **Clique duas vezes em "kali-linux-2024.4-virtualbox-amd64"
+    > **Clique duas vezes em "kali-linux-2024.4-virtualbox-amd64"**
 
 
 
