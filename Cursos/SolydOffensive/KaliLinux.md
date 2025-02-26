@@ -26,6 +26,12 @@ No site, siga os passos:
 2. Baixe a imagem já pronta do Kali Linux.  
 3. Escolha a versão para **"VirtualBox"**.
 
+📌 **Observação:**  Após a instalação do Kali Linux, precisamos descompactar o arquivo. KaliLinux vem compactado com a extensão 7z, então, utilizaremos o "winrar" ou "7zip"(ferramente open source) para fazer a extração.
+
+
+
+
+
 ---
 
 🔙 [Voltar para o índice](../../README.md)
