@@ -36,6 +36,8 @@ No site, siga os passos:
 - Depois da extração, verá algo parecido com:
 
     ![alt text](imagem.png2.jpeg)
+
+    
     > **Clique duas vezes em "kali-linux-2024.4-virtualbox-amd64"
 
 
