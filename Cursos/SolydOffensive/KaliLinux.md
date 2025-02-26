@@ -28,6 +28,11 @@ No site, siga os passos:
 
 📌 **Observação:**  Após a instalação do Kali Linux, precisamos descompactar o arquivo. KaliLinux vem compactado com a extensão 7z, então, utilizaremos o "winrar" ou "7zip"(ferramente open source) para fazer a extração.
 
+- Movi o arquivo Kali Linux para dentro da pasta VM Box(Recomendado), e, posteriomente, extrai.
+
+    ![alt text](../../Fotos/image.png)
+
+
 
 
 
