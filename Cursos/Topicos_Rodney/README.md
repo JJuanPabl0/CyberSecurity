@@ -76,3 +76,6 @@ Estudar as seguintes ferramentas para análise de segurança em código e depend
 
 ---
 🚀 **Bons estudos e boa sorte na jornada de Cybersecurity!**
+
+---
+🔙 [Voltar para o índice](../../README.md) ou
