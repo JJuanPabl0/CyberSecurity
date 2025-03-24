@@ -43,5 +43,3 @@ No site, siga os passos:
 
 
 ---
-
-🔙 [Voltar para o índice](../../README.md)
