@@ -21,6 +21,8 @@
 - A configuração incorreta do CORS permite acesso à API de origens não autorizadas/não confiáveis.
 
 - Forçar navegação para páginas autenticadas como um usuário não autenticado ou para páginas privilegiadas como um usuário padrão
+ls
 
 
 ## _**Como Previnir**_
+
