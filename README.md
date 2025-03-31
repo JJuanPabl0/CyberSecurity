@@ -14,6 +14,6 @@ Este repositório contém meus estudos sobre CyberSecurity. Clique em um dos tó
 
 ---
 
-###
+## <img src="Fotos/image-relatorio.png" width=25 style="margin-right: 10px" > Tópicos Rodney
 
-
+- [Ordem de Estudo](Relatórios/README.md)
